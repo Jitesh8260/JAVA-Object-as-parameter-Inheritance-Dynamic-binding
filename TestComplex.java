@@ -1,3 +1,13 @@
+/*Create a class called Complex for performing arithmetic on complex numbers. Complex numbers
+have the form a+bi where a is real part and b is imaginary part and i=√-1.
+Write a program to test your class. Use floating point variables to represent the private data of the
+class. Provide constructor that enable an object to be initialized when it is declared. Provide no
+argument constructor with default values in case no initializers are provided. Provide public
+methods for addition, subtraction, multiplication and division of complex numbers. Pass objects of
+Complex as parameters of the method.
+Input and Output Requirements:
+Program reads real and imaginary parts of two complex numbers through keyboard and displays
+their sum, difference, product and quotient as result.*/
 
 public class TestComplex{
     public static void main(String args[]){
