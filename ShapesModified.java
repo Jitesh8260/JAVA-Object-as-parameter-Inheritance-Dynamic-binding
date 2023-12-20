@@ -1,3 +1,9 @@
+/*Design following class hierarchies.
+Data members are private, constructors and methods are public. Test the methods of all classes
+by creating objects of Cylinder class in the main method under another class.*/
+
+//Modify the above program to demonstrate the method overriding.
+
 public class ShapesModified {
     public static void main(String[] args) {
         Cylinder obj = new Cylinder(2,4,1,2);
