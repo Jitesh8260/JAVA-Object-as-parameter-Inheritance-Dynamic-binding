@@ -1,4 +1,4 @@
- /*Design following class hierarchies.
+/*Design following class hierarchies.
 Data members are private, constructors and methods are public. Test the methods of all classes
 by creating objects of Cylinder class in the main method under another class.*/
 
