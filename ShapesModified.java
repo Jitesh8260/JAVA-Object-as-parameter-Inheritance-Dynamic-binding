@@ -20,7 +20,7 @@ class Cylinder extends Circle{
     }
     public void printCylinder() {
         System.out.println("The height of the cylinder is: " + height);
-        this.printCircle();
+        this.printC ircle();
         this.printPoint();
     }
     public void printCircle() {
