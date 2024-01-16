@@ -19,7 +19,7 @@ public class TestComplex{
       System.out.println("Subtraction =");
     c3.subComplex(c1.real,c1.imaginary,c2.real,c2.imaginary);
     System.out.println("Multiplications");
-    c3.mulComplex(c1.real,c1.imaginary,c2.real,c2.imaginary);
+    c3.mulComplex(c1.real,c1.ima ginary,c2.real,c2.imaginary);
     System.out.println("Division");
     c3.divComplex(c1.real,c1.imaginary,c2.real,c2.imaginary);
     }
